@@ -67,7 +67,6 @@
             $val = htmlspecialchars($data[$i]);
             echo "{$baris}:{$i}: {$val}<br>";
         }
-        // echo "<i>dst</i>";
         echo '</div>';
     }
     ?>
