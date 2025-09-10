@@ -37,6 +37,7 @@ $result = $stmt->get_result();
 <head>
     <title>Laporan Hobi & Jumlah Person</title>
     <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
         table { border-collapse: collapse; }
         th, td { border: 1px solid #888; padding: 6px 12px; }
     </style>
